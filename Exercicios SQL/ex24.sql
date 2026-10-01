@@ -1,0 +1,1 @@
+-- TODO: colar aqui o código do ex24 (não apareceu nos prints)
